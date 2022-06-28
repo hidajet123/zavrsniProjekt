@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searchFilter"
+        android:title="Filter by input" />
+    <item
+        android:id="@+id/clearFilter"
+        android:title="Clear filters" />
+</menu>
